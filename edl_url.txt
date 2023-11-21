@@ -6,6 +6,7 @@ comtree.steam.eu.com/
 *.soundofservice.com/
 *.cloudforce.com/
 *.lightning.force.com/
+*.vf.force.com/
 *.budgetthuis.nl/
 *.verzuimsignaal2.nl/
 verzuimsignaal2.nl/
