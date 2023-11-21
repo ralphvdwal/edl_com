@@ -8,6 +8,7 @@ comtree.steam.eu.com/
 *.lightning.force.com/
 *.budgetthuis.nl/
 *.verzuimsignaal2.nl/
+verzuimsignaal2.nl/
 *.lastpass.com/
 *.nutsservices.nl/
 *.comtree.nl/
