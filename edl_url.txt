@@ -42,6 +42,9 @@ contacts.google.com/
 mail.google.com/
 ssl.gstatic.com/
 www.google.com/
+www.abnamro.nl/
+*.abnamro.nl/
+abnamro.nl/
 www.gstatic.com/
 ogs.google.com/
 play.google.com/
