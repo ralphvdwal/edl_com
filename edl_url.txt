@@ -9,6 +9,8 @@ comtree.steam.eu.com/
 *.budgetthuis.nl/
 *.verzuimsignaal2.nl/
 verzuimsignaal2.nl/
+*.verzuimsignaal.nl/
+verzuimsignaal.nl/
 *.lastpass.com/
 lastpass.com/
 *.nutsservices.nl/
