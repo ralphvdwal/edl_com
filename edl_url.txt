@@ -16,8 +16,8 @@ lastpass.com/
 *.nutsservices.nl/
 *.comtree.nl/
 comtree.nl/
-*.recruitee.nl/
-recruitee.nl/
+*.recruitee.com/
+recruitee.com/
 *.google.com/
 *.youngcapital.nl/
 *.outbrain.com/
