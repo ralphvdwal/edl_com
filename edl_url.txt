@@ -1,6 +1,7 @@
 salesdock.nl/
 *.salesdock.nl/
 comtree.steam.eu.com/
+*.steam.eu.com/
 *.easynuts.nl/
 *.soundofservice.com/
 *.cloudforce.com/
