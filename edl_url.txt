@@ -26,3 +26,15 @@ comtree.steam.eu.com/
 *.tqis.nl/
 *.bc.googleusercontent.com/
 *.googleusercontent.com/
+*.client-channel.google.com/
+accounts.google.com/
+apis.google.com/
+clients*.google.com/
+contacts.google.com/
+*.googleusercontent.com/
+mail.google.com/
+ssl.gstatic.com/
+www.google.com/
+www.gstatic.com/
+ogs.google.com/
+play.google.com/
