@@ -24,3 +24,4 @@ comtree.steam.eu.com/
 *.trello.com/
 *.dmcc.nu/
 *.tqis.nl/
+*.bc.googleusercontent.com/
