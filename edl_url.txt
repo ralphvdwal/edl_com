@@ -25,3 +25,4 @@ comtree.steam.eu.com/
 *.dmcc.nu/
 *.tqis.nl/
 *.bc.googleusercontent.com/
+*.googleusercontent.com/
