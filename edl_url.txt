@@ -57,3 +57,5 @@ weetwatjezegt.nl/
 *.weetwatjezegt.nl/
 sh-secure.net/
 *.sh-secure.net/
+*.office365.com/
+*.outlook.com/
