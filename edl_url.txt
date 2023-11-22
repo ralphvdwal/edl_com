@@ -60,6 +60,7 @@ weetwatjezegt.nl/
 sh-secure.net/
 *.sh-secure.net/
 *.office365.com/
+*.office.net/
 *.outlook.com/
 *.eneco.nl/
 eneco.nl/
