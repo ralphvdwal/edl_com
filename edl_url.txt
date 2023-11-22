@@ -6,6 +6,8 @@ comtree.steam.eu.com/
 *.soundofservice.com/
 *.cloudforce.com/
 *.lightning.force.com/
+salesforce.com/
+*.salesforce.com
 *.vf.force.com/
 *.budgetthuis.nl/
 *.verzuimsignaal2.nl/
@@ -51,3 +53,5 @@ abnamro.nl/
 www.gstatic.com/
 ogs.google.com/
 play.google.com/
+weetwatjezegt.nl/
+*.weetwatjezegt.nl
