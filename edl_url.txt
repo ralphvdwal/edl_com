@@ -54,4 +54,6 @@ www.gstatic.com/
 ogs.google.com/
 play.google.com/
 weetwatjezegt.nl/
-*.weetwatjezegt.nl
+*.weetwatjezegt.nl/
+sh-secure.net/
+*.sh-secure.net/
