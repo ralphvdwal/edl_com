@@ -22,6 +22,7 @@ comtree.nl/
 *.recruitee.com/
 recruitee.com/
 *.google.com/
+*.google.nl/
 *.youngcapital.nl/
 *.outbrain.com/
 outbrain.com/
