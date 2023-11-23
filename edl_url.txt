@@ -1,5 +1,7 @@
 salesdock.nl/
 *.salesdock.nl/
+salesdock.be/
+*.salesdock.be/
 comtree.steam.eu.com/
 *.steam.eu.com/
 *.easynuts.nl/
