@@ -89,3 +89,11 @@ fluvius.be/
 *.fluvius.be/
 mijnenergie.be/
 *.mijnenergie.be/
+googledrive.com/
+*.drive.google.com/
+drive.usercontent.google.com/
+docs.google.com/
+*.docs.google.com/
+*.c.docs.google.com/
+*.googleapis.com/
+*.gvt1.com/
