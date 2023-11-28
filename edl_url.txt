@@ -57,6 +57,7 @@ abnamro.nl/
 www.gstatic.com/
 ogs.google.com/
 play.google.com/
+docs.google.com/
 weetwatjezegt.nl/
 *.weetwatjezegt.nl/
 sh-secure.net/
