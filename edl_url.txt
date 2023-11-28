@@ -97,3 +97,4 @@ docs.google.com/
 *.c.docs.google.com/
 *.googleapis.com/
 *.gvt1.com/
+prod-telesales-delta.gw.dfnld.nl/ 
