@@ -64,6 +64,7 @@ sh-secure.net/
 *.sh-secure.net/
 *.office365.com/
 *.office.net/
+*.office.com/
 *.microsoftonline.com/
 *.outlook.com/
 *.eneco.nl/
