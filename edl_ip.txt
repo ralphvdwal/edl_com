@@ -3,4 +3,4 @@
 185.226.136.1-185.226.139.255 #steam bellen
 185.226.138.155 #steam meeluisteren
 85.10.138.137 #responders
-185.226.138.0/24 #steam volledig ip block
+185.226.136.1-185.226.139.255 #steam volledig ip block
