@@ -4,6 +4,8 @@ salesdock.be/
 *.salesdock.be/
 comtree.steam.eu.com/
 *.steam.eu.com/
+steam-connect.com/
+*.steam-connect.com
 *.easynuts.nl/
 *.soundofservice.com/
 *.cloudforce.com/
