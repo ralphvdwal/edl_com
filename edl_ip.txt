@@ -6,3 +6,5 @@
 63.32.246.93 #easynuts soundofservice ip
 185.226.137.249 #steam webrtc
 185.226.137.117 #steam webrtc
+185.226.136.251 #cdr mssql connectie
+185.226.137.246 #cdr mssql connectie
