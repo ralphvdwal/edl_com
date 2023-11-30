@@ -4,3 +4,5 @@
 185.226.138.155 #steam meeluisteren
 85.10.138.137 #responders
 63.32.246.93 #easynuts soundofservice ip
+185.226.137.249 #steam webrtc
+185.226.137.117 #steam webrtc
