@@ -75,6 +75,10 @@ office.com/
 microsoftonline.com/
 microsoft.com/
 *.microsoft.com/
+msftauth.net/
+*.msftauth.net/
+msauth.net/
+*.msauth.net/
 *.outlook.com/
 *.eneco.nl/
 eneco.nl/
