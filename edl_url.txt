@@ -15,6 +15,7 @@ salesforce.com/
 *.my.salesforce.com/
 *.vf.force.com/
 *.budgetthuis.nl/
+budgetthuis.nl/
 *.verzuimsignaal2.nl/
 verzuimsignaal2.nl/
 *.verzuimsignaal.nl/
@@ -135,3 +136,7 @@ odido.nl/
 *.odido.nl/
 nedapflux.com/
 *.nedapflux.com/
+*.greenchoice.nl/
+greenchoice.nl/
+energievergelijk.nl/
+*.energievergelijk.nl/
