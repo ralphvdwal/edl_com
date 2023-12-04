@@ -73,6 +73,8 @@ office.net/
 office.com/
 *.microsoftonline.com/
 microsoftonline.com/
+microsoft.com/
+*.microsoft.com/
 *.outlook.com/
 *.eneco.nl/
 eneco.nl/
