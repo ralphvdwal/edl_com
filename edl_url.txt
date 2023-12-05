@@ -13,6 +13,10 @@ steam-connect.com/
 salesforce.com/
 *.salesforce.com/
 *.my.salesforce.com/
+*.force.com/
+force.com/
+hr2day.com/
+*.hr2day.com/
 *.vf.force.com/
 *.budgetthuis.nl/
 budgetthuis.nl/
