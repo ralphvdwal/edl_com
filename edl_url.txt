@@ -147,3 +147,5 @@ nedapflux.com/
 greenchoice.nl/
 energievergelijk.nl/
 *.energievergelijk.nl/
+jamwerkt.nl/
+*.jamwerkt.nl
