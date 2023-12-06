@@ -7,6 +7,7 @@ comtree.steam.eu.com/
 steam-connect.com/
 *.steam-connect.com
 *.easynuts.nl/
+easynuts.nl/
 *.soundofservice.com/
 *.cloudforce.com/
 *.lightning.force.com/
@@ -163,3 +164,5 @@ flexportal.eu/
 gfx.ms/
 *.msecnd.net/
 msecnd.net/
+microsoft365.com/
+*.microsoft365.com/
