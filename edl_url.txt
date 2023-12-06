@@ -159,3 +159,7 @@ nxdev.nl/
 helloflex.com/
 flexportal.eu/
 *.flexportal.eu/
+*.gfx.ms/
+gfx.ms/
+*.msecnd.net/
+msecnd.net/
