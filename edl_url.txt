@@ -128,8 +128,10 @@ kpnarmor.nl/
 nlex.nl/
 *.prm.ods2.com/
 *.caas.vodafone.com/
-*.vodafone-partners.nl
-vodafone-partners.nl
+*.vodafone-partners.nl/
+vodafone-partners.nl/
+vodafone.nl/
+*.vodafone.nl/
 *.youfone.nl/
 youfone.nl/
 *.topdesk.net/
