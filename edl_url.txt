@@ -33,7 +33,6 @@ comtree.nl/
 *.recruitee.com/
 recruitee.com/
 *.google.com/
-.googleusercontent.com/
 *.google.nl/
 *.youngcapital.nl/
 *.outbrain.com/
@@ -56,7 +55,6 @@ accounts.google.com/
 apis.google.com/
 *.google.com/
 contacts.google.com/
-*.googleusercontent.com/
 mail.google.com/
 ssl.gstatic.com/
 www.google.com/
@@ -112,9 +110,13 @@ mijnenergie.be/
 googledrive.com/
 *.drive.google.com/
 drive.usercontent.google.com/
-docs.google.com/
+sheets.google.com/
+slides.google.com/
 *.docs.google.com/
 *.c.docs.google.com/
+*.ytimg.com/
+*.googlegroups.com/
+googledrive.com/
 *.googleapis.com/
 *.gvt1.com/
 prod-telesales-delta.gw.dfnld.nl/ 
@@ -166,3 +168,11 @@ gfx.ms/
 msecnd.net/
 microsoft365.com/
 *.microsoft365.com/
+vattenfal.nl/
+*.vattenfal.nl/
+ennatuurlijk.nl/
+*.ennatuurlijk.nl/
+independer.nl/
+*.independer.nl/
+vandebron.nl/
+*.vandebron.nl/
