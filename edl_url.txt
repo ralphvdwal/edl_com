@@ -90,8 +90,8 @@ eneco.nl/
 energiedirect.nl/
 *.essent.nl/
 essent.nl/
-*.vattenfal.nl/
-vattenfal.nl/
+*.vattenfall.nl/
+vattenfall.nl/
 *.eancodeboek.nl/
 eancodeboek.nl/
 gmail.com/
@@ -168,8 +168,6 @@ gfx.ms/
 msecnd.net/
 microsoft365.com/
 *.microsoft365.com/
-vattenfal.nl/
-*.vattenfal.nl/
 ennatuurlijk.nl/
 *.ennatuurlijk.nl/
 independer.nl/
