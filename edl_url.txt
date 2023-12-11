@@ -186,3 +186,7 @@ dropbox.com/
 dropboxapi.com/
 *.dropboxstatic.com/
 dropboxstatic.com/
+*.dropbox-dns.com/
+dropbox-dns.com/
+*.dropboxusercontent.com/
+dropboxusercontent.com/
