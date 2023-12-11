@@ -118,6 +118,7 @@ slides.google.com/
 *.googlegroups.com/
 googledrive.com/
 *.googleapis.com/
+googleapis.com/
 *.gvt1.com/
 prod-telesales-delta.gw.dfnld.nl/ 
 *.t-mobile.nl/
