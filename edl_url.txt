@@ -191,3 +191,5 @@ dropboxstatic.com/
 dropbox-dns.com/
 *.dropboxusercontent.com/
 dropboxusercontent.com/
+*.evidon.com/
+*.arkoselabs.com/
