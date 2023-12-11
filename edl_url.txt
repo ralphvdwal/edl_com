@@ -184,3 +184,5 @@ delta.nl/
 dropbox.com/
 *.dropboxapi.com/
 dropboxapi.com/
+*.dropboxstatic.com/
+dropboxstatic.com/
