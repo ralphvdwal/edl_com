@@ -195,3 +195,5 @@ dropboxusercontent.com/
 *.arkoselabs.com/
 *.gaslicht.com/
 gaslicht.com/
+*.azure-api.net/
+*.episerver.net/
