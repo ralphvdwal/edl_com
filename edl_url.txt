@@ -92,6 +92,8 @@ energiedirect.nl/
 essent.nl/
 *.vattenfall.nl/
 vattenfall.nl/
+*.vattenfall.com/
+vattenfall.com/
 *.eancodeboek.nl/
 eancodeboek.nl/
 gmail.com/
