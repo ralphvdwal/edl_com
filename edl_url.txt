@@ -207,3 +207,5 @@ eneco.be/
 *.eneco.be/
 totalenergies.be/
 *.totalenergies.be/
+duosecurity.com/
+*.duosecurity.com/
