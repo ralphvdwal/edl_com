@@ -209,3 +209,7 @@ totalenergies.be/
 *.totalenergies.be/
 duosecurity.com/
 *.duosecurity.com/
+octaplus.be/
+*.octaplus.be/
+mega.be/
+*.mega.be/
