@@ -238,3 +238,5 @@ youtube.com/
 *.youtube.nl/
 youtube.nl/
 *.ytimg.com/
+googlevideo.com/
+*.googlevideo.com/
