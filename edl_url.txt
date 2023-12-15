@@ -231,3 +231,10 @@ besparenkan.nl/
 *.besparenkan.nl/
 besparenkan.be/
 *.besparenkan.be/
+*.youtu.be/
+youtu.be/
+*.youtube.com/
+youtube.com/
+*.youtube.nl/
+youtube.nl/
+*.ytimg.com/
