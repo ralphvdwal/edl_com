@@ -247,3 +247,9 @@ ibancalculator.com/
 *.ibancalculator.com/
 *.pricewise.nl/
 pricewise.nl/
+vreg.be/
+*.vreg.be/
+creg.be/
+*.creg.be/
+vrt.be/
+*.vrt.be/
