@@ -263,3 +263,5 @@ siteimproveanalytics.com/
 *.siteimproveanalytics.com/
 nr-data.net/
 *.nr-data.net/
+atlassian.com/
+*.atlassian.com/
