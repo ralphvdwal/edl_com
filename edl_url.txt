@@ -265,3 +265,5 @@ nr-data.net/
 *.nr-data.net/
 atlassian.com/
 *.atlassian.com/
+*.hiya.com/
+hiya.com/
