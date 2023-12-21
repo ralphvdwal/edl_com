@@ -269,3 +269,4 @@ atlassian.com/
 hiya.com/
 acm.nl/
 *.acm.nl/
+*.steam.eu.com/
