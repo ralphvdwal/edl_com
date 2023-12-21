@@ -1,9 +1,6 @@
-185.226.137.250 #steam recording bewijslasten
 95.170.93.54 #vdi-budget
-185.226.136.1-185.226.139.255 #steam bellen
-185.226.138.1-185.226.138.255 #steam meeluisteren
+185.226.136.0-185.226.139.255 #steam
 85.10.138.137 #responders
 63.32.246.93 #easynuts soundofservice ip
-185.226.137.1-185.226.137.255 #steam webrtc
 185.226.136.251 #cdr mssql connectie
 185.226.137.246 #cdr mssql connectie
