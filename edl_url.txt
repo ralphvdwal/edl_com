@@ -270,3 +270,5 @@ hiya.com/
 acm.nl/
 *.acm.nl/
 *.steam.eu.com/
+ziggozakelijk.nl/
+*.ziggozakelijk.nl/
