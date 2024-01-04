@@ -274,3 +274,9 @@ ziggozakelijk.nl/
 *.ziggozakelijk.nl/
 mijnwarmte.nl/
 *.mijnwarmte.nl/
+*.core.windows.net/
+core.windows.net/
+*.zetadisplay.com/
+zetadisplay.com/
+*.ntp.org/
+ntp.org/
