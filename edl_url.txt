@@ -139,8 +139,8 @@ vodafone.nl/
 youfone.nl/
 *.topdesk.net/
 topdesk.net/
-eancodeboek.nl/
 *.eancodeboek.nl/
+eancodeboek.nl/
 mijnaansluiting.nl/
 *.mijnaansluiting.nl/
 *.ziggo.nl/
@@ -272,3 +272,5 @@ acm.nl/
 *.steam.eu.com/
 ziggozakelijk.nl/
 *.ziggozakelijk.nl/
+mijnwarmte.nl/
+*.mijnwarmte.nl/
