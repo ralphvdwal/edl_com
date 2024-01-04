@@ -280,3 +280,6 @@ core.windows.net/
 zetadisplay.com/
 *.ntp.org/
 ntp.org/
+deltaportal.nl/
+*.deltaportal.nl/
+*.gw.dfnld.nl/
