@@ -283,3 +283,5 @@ ntp.org/
 deltaportal.nl/
 *.deltaportal.nl/
 *.gw.dfnld.nl/
+atlasian.com/
+*.atlasian.com/
